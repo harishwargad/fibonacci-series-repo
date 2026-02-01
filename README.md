@@ -1,2 +1,2 @@
 # Fibonacci Series Code  
-## In 'C' Langauge
+In 'C' Langauge
